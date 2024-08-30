@@ -1,10 +1,10 @@
 # LLM-Powered Recruitment Tools
 
-This repository contains two powerful Streamlit applications that utilize Large Language Models (LLMs) to assist in the recruitment process: **Rant** and **Chat**.
+This repository contains two powerful Streamlit applications that utilize Large Language Models (LLMs) to assist in the recruitment process: **Rank** and **Chat**.
 
 ## Table of Contents
 
-- [Rant](#rant)
+- [Rank](#rank)
 - [Chat](#chat)
 - [Installation](#installation)
 - [Usage](#usage)
